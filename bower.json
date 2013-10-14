@@ -1,0 +1,17 @@
+{
+  "name": "rx-test-demo",
+  "version": "0.1.0",
+  "main": [],
+  "ignore": [
+    "lib",
+    ".DS_Store",
+    ".git",
+    ".gitignore",
+    ".npmignore"
+  ],
+  "dependencies": {
+    "rxjs": "2.1.21",
+    "qunit": "1.12.0"
+  },
+  "devDependencies": {}
+}
